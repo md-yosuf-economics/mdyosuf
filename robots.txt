@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /cert-
+Disallow: /photo-
+Disallow: /img
+Disallow: /magazine-article-
+
+Sitemap: https://mdyosuf.site/sitemap.xml
